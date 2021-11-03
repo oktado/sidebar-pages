@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sidebar-pages/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sidebar-pages/static/js/main.0855852e.chunk.js",
+    "main.js.map": "/sidebar-pages/static/js/main.0855852e.chunk.js.map",
+    "runtime-main.js": "/sidebar-pages/static/js/runtime-main.a6914068.js",
+    "runtime-main.js.map": "/sidebar-pages/static/js/runtime-main.a6914068.js.map",
+    "static/js/2.292b97bd.chunk.js": "/sidebar-pages/static/js/2.292b97bd.chunk.js",
+    "static/js/2.292b97bd.chunk.js.map": "/sidebar-pages/static/js/2.292b97bd.chunk.js.map",
+    "static/js/3.0ac25dc1.chunk.js": "/sidebar-pages/static/js/3.0ac25dc1.chunk.js",
+    "static/js/3.0ac25dc1.chunk.js.map": "/sidebar-pages/static/js/3.0ac25dc1.chunk.js.map",
+    "index.html": "/sidebar-pages/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sidebar-pages/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.292b97bd.chunk.js.LICENSE.txt": "/sidebar-pages/static/js/2.292b97bd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sidebar-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6914068.js",
+    "static/js/2.292b97bd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0855852e.chunk.js"
+  ]
+}
