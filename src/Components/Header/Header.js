@@ -101,7 +101,6 @@ const Header = () => {
                   Overview
                 </MenuItem>
                 <MenuItem
-                  onClick={() => setSelectedMenu(5)}
                   active={selectedMenu === 5 ? true : false}
                   icon={<BiCog />}
                 >
