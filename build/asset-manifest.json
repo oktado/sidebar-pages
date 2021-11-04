@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sidebar-pages/static/css/main.32005e05.chunk.css",
+    "main.js": "/sidebar-pages/static/js/main.7a6e003d.chunk.js",
+    "main.js.map": "/sidebar-pages/static/js/main.7a6e003d.chunk.js.map",
+    "runtime-main.js": "/sidebar-pages/static/js/runtime-main.7349d744.js",
+    "runtime-main.js.map": "/sidebar-pages/static/js/runtime-main.7349d744.js.map",
+    "static/css/2.9dd3a7bc.chunk.css": "/sidebar-pages/static/css/2.9dd3a7bc.chunk.css",
+    "static/js/2.163d8f2e.chunk.js": "/sidebar-pages/static/js/2.163d8f2e.chunk.js",
+    "static/js/2.163d8f2e.chunk.js.map": "/sidebar-pages/static/js/2.163d8f2e.chunk.js.map",
+    "static/js/3.1e1eb2c4.chunk.js": "/sidebar-pages/static/js/3.1e1eb2c4.chunk.js",
+    "static/js/3.1e1eb2c4.chunk.js.map": "/sidebar-pages/static/js/3.1e1eb2c4.chunk.js.map",
+    "index.html": "/sidebar-pages/index.html",
+    "static/css/2.9dd3a7bc.chunk.css.map": "/sidebar-pages/static/css/2.9dd3a7bc.chunk.css.map",
+    "static/css/main.32005e05.chunk.css.map": "/sidebar-pages/static/css/main.32005e05.chunk.css.map",
+    "static/js/2.163d8f2e.chunk.js.LICENSE.txt": "/sidebar-pages/static/js/2.163d8f2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7349d744.js",
+    "static/css/2.9dd3a7bc.chunk.css",
+    "static/js/2.163d8f2e.chunk.js",
+    "static/css/main.32005e05.chunk.css",
+    "static/js/main.7a6e003d.chunk.js"
+  ]
+}
