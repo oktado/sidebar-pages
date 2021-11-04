@@ -7,12 +7,12 @@ import { Overview } from "./Pages/Overview/index";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/sidebar-pages">
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route exact path="/category" component={Category} />
-          <Route exact path="/favourite" component={Favourite} />
-          <Route exact path="/overview" component={Overview} />
+          <Route path="/category" component={Category} />
+          <Route path="/favourite" component={Favourite} />
+          <Route path="/overview" component={Overview} />
         </Switch>
       </BrowserRouter>
     </div>
